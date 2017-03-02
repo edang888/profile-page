@@ -11,7 +11,6 @@
  - [Bootstrap](http://getbootstrap.com) (via CDN)
  - Raleway (via Google fonts)
  - [Font Awesome](http://fortawesome.github.io/Font-Awesome/icons/)
- - [Embed.ly](http://embed.ly)
 
 
 ###Easter eggs 
