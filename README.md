@@ -1,5 +1,5 @@
 # Profile Page
-###A Minimal Boostrap template
+### A Minimal Boostrap template
 [![Landing page picture](http://i.imgur.com/ZJqaMdC.png)](http://justinleger.ca)
 
 
