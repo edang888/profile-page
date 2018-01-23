@@ -6,14 +6,15 @@
 ----------
 
 
-###Things used to make this template
+### Things used to make this template
 
  - [Bootstrap](http://getbootstrap.com) (via CDN)
  - Raleway (via Google fonts)
  - [Font Awesome](http://fortawesome.github.io/Font-Awesome/icons/)
+ - [updateYourYearPLZ](https://github.com/jusleg/updateYourYearPLZ)
 
 
-###Easter eggs 
+### Easter eggs
  those are activated by type the character combinations below
 
  - icu (John Cena)
